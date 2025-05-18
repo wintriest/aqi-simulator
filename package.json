@@ -1,0 +1,10 @@
+{
+  "name": "aqi-simulator",
+  "version": "1.0.0",
+  "description": "A simple Air Quality Index simulator using JavaScript and Math.random()",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["AQI", "Air Quality", "JavaScript", "Simulation"],
+  "author": "wintriest",
+  "license": "MIT"
+}
